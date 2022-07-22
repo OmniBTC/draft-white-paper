@@ -1,9 +1,5 @@
 ## OmniBTC is an omnichain financial platform for web3.
    including omnichain swap and BTC omnichain lending.  
-   For more detailed clarification,you can check out our gitbook,  
-   https://omnibtclabs.gitbook.io/omnibtc/introduction/what-is-omnibtc  
-   or join in our Discord and ask for help,  
-   https://discord.gg/Z2EzZcJ72x
    
 ### Omnichain Swap.
   Based on LayerZero,an omnichain interoperability protocol,users can swap any token between any chain with one click.
@@ -29,3 +25,10 @@
   ### BTC Omnichain Lending
   * Centralized BTC lending.Bitcoin accounts for almost half of the total market value of the crypto market, but all along, the lending business around Bitcoin is basically dominated by centralized institutions. Obviously, this lending model is very fragile, especially in the bear market, the centralized financial institutions are likely to fall into the dilemma of capital turnover due to their own operational problems, which leads to the inability of users to complete even the most basic withdrawal operations.  
   * Lending on single chain.The existing lending protocols can only be carried out in a single chain. Compound and AAVE provide some bitcoin lending services in a decentralized environment.However,if users want to borrow stablecoins from Ethereum, Avalanche or polygon, the first step must be bridging WBTC to Ethereum, Avalanche or polygon. The realization of the cross-chain process must rely on some third-party cross-chain bridges outside the lending platform, which increases the complexity of operation and brings more security risks.  
+  ## Other supports
+   For more detailed clarification,you can check out our gitbook,  
+   https://omnibtclabs.gitbook.io/omnibtc/introduction/what-is-omnibtc  
+   or join in our Discord and ask for help,  
+   https://discord.gg/Z2EzZcJ72x  
+  ### Contact us
+  business@chainnet.tech
