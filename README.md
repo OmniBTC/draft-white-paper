@@ -1,4 +1,4 @@
-## OmniBTC is an omnichain financial platform for web3.
+## 🎇OmniBTC is an omnichain financial platform for web3.
    including omnichain swap and BTC omnichain lending.  
    
 ### Omnichain Swap.
@@ -6,7 +6,7 @@
 ### BTC Omnichain Lending.
   Combining BTC Layer2 smart contract platform ChainX and omnichain interoperability protocol LayerZero,users can lend their BTC and borrow any stablecoin on any chain.
 
-## What makes OmniBTC unique?
+## 💡What makes OmniBTC unique?
   The first omnichain swap and lending platform which is based on Layerzero,an omnichain interoperability protocol.  
   Anyone can swap any assets on chainA for any assets on any chain(including chainA) in one single transaction.  
   Anyone can lend their BTC and borrow any stablecoin on any chain in one single transaction.  
@@ -14,7 +14,7 @@
  Cross-chain transactions are completed on the DEX of each chain,and users' transactions are connected to the most liquid decentralized market according to the algorithm.  
  Provide more possibilities for the existing single-chain DEXs and multichain DEXs, and provides more income for its liquidity providers.
  
- ## What problem will be solved?
+ ## 🛠What problem will be solved?
   The two basic functions of DeFi market are swapping and lending. We hope to provide users with such a scenario.  
   * Omnichain Swap. In a low-slippage environment,users can swap any assets on chainA for any assets on any chain(including chainA) through one single transaction.  
   * Omnichain Lending. After lending BTC, users can borrow any stablecoin on any chain on one page without supplying BTC on a specific chain to borrow the stablecoin on a specific chain.  
@@ -25,7 +25,7 @@
   ### BTC Omnichain Lending
   * Centralized BTC lending.Bitcoin accounts for almost half of the total market value of the crypto market, but all along, the lending business around Bitcoin is basically dominated by centralized institutions. Obviously, this lending model is very fragile, especially in the bear market, the centralized financial institutions are likely to fall into the dilemma of capital turnover due to their own operational problems, which leads to the inability of users to complete even the most basic withdrawal operations.  
   * Lending on single chain.The existing lending protocols can only be carried out in a single chain. Compound and AAVE provide some bitcoin lending services in a decentralized environment.However,if users want to borrow stablecoins from Ethereum, Avalanche or polygon, the first step must be bridging WBTC to Ethereum, Avalanche or polygon. The realization of the cross-chain process must rely on some third-party cross-chain bridges outside the lending platform, which increases the complexity of operation and brings more security risks.  
-  ## Other supports
+  ## 🛡Other supports
    For more detailed clarification,you can check out our gitbook,  
    https://omnibtclabs.gitbook.io/omnibtc/introduction/what-is-omnibtc  
    or join in our Discord and ask for help,  
