@@ -2,8 +2,7 @@
    including omnichain swap and BTC omnichain lending.
    For more detailed clarification,you can check out our gitbook,
    ### https://omnibtclabs.gitbook.io/omnibtc/introduction/what-is-omnibtc
-   or join in our Discord and ask for help,
-   ### https://discord.gg/Z2EzZcJ72x
+   or join in our Discord and ask for help,/n https://discord.gg/Z2EzZcJ72x
    
 ### Omnichain Swap.
   Based on LayerZero,an omnichain interoperability protocol,users can swap any token between any chain with one click.
