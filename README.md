@@ -10,9 +10,9 @@
   Combining BTC Layer2 smart contract platform ChainX and omnichain interoperability protocol LayerZero,users can lend their BTC and borrow any stablecoin on any chain.
 
 ### What makes OmniBTC unique?
-  The first omnichain swap and lending platform which is based on Layerzero,an omnichain interoperability protocol.
-  Anyone can swap any assets on chainA for any assets on any chain(including chainA) in one single transaction.
-  Anyone can lend their BTC and borrow any stablecoin on any chain in one single transaction.
+  The first omnichain swap and lending platform which is based on Layerzero,an omnichain interoperability protocol.  
+  Anyone can swap any assets on chainA for any assets on any chain(including chainA) in one single transaction.  
+  Anyone can lend their BTC and borrow any stablecoin on any chain in one single transaction.  
   By integrating any liquidity pool on any chain into one single platform,OmniBTC will greatly enhance the use efficiency of existing liquidity, bring new revenue to liquidity providers in various DEXs, and also enable existing DEXs to enjoy liquidity injection in various chains.
  Cross-chain transactions are completed on the DEX of each chain,and users' transactions are connected to the most liquid decentralized market according to the algorithm.
  Provide more possibilities for the existing single-chain DEXs and multichain DEXs, and provides more income for its liquidity providers.
